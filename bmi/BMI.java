@@ -2,8 +2,7 @@ import java.util.Scanner;
 
 class BMI {
     public static void main(String args[]){
-	System.out.println("Hello");
-        Scanner sc = new Scanner(System.in);
+	Scanner sc = new Scanner(System.in);
         System.out.println("Enter your height: "); // in meters
         float height = sc.nextFloat();
         System.out.println("Enter your weight: "); // in kg
